@@ -1,0 +1,18 @@
+# build output
+Debug/
+Release/
+build/
+
+# STM32CubeIDE junk
+.metadata/
+.settings/
+
+# compiled files
+*.o
+*.d
+*.elf
+*.map
+*.bin
+
+# system files
+.DS_Store
