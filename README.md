@@ -127,11 +127,3 @@ The system is written in C using STM32 HAL libraries and is designed around inte
 - Hardware–software integration
 - Embedded UI design constraints
 
-
-
----
-
-## 👤 Author
-Kristine Bito-on  
-Computer Engineering – UNSW  
-GitHub: https://github.com/yourusername
